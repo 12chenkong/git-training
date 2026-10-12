@@ -1,1 +1,2 @@
-conflict 1
+commit2
+I have just edit this remotly and please help fetch to local branch for latest update!!!!!
