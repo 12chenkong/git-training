@@ -1,2 +1,3 @@
 version3
 This is another version from feature
+this is another commit message from git in local branch 
